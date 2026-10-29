@@ -1,0 +1,14 @@
+MKATABA WA USAFIRISHAJI NA UGAVI (SUPPLY & LOGISTICS AGREEMENT - NAIROBI SME NODE)
+Contract ID: KE-SLA-2026-089
+Parties: Umoja Agro-Processors Ltd ("Buyer") & Savannah Logistics Ltd ("Carrier")
+
+CLAUSE 1: DELIVERY TIMELINES (MUDA WA KUFIKISHA MZIGO)
+Carrier shall deliver all agricultural commodities within 24 hours of dispatch from Nakuru to Nairobi.
+Indemnity: Kushindwa kufikisha mzigo ndani ya masaa 24 kutasababisha faini ya 8% (8 percent penalty) ya thamani ya usafirishaji.
+
+CLAUSE 2: FUEL SURCHARGES & DUPLICATE BILLING (GHARAMA ZA ZIADA NA MALIPO MARA MBili)
+No fuel surcharge is permitted without prior written approval signed by Buyer's Director.
+Any duplicate M-Pesa or USDt debit (malipo yaliyorudiwa) must be refunded within 48 hours with a 5% administrative credit.
+
+CLAUSE 3: SELF-CUSTODIAL USDT SETTLEMENT POLICY (SERA YA MALIPO YA USDT)
+Cross-border supplier invoices exceeding 500 USDt require dual policy verification via local WDK policy engine before signing. Maximum single automated transaction limit is 1,000 USDt.

@@ -1,0 +1,9 @@
+tx_id,timestamp,counterparty,category,direction,currency,amount,fee,reference_note
+TXN-901,2026-10-20T08:14:00Z,Wakulima Produce Co-op,Inventory,OUTFLOW,KES,145000,310,Maize and grain bulk purchase
+TXN-902,2026-10-20T11:30:00Z,Kilimani Retail Mart,Sales,INFLOW,KES,210500,0,Invoice INV-204 settlement
+TXN-903,2026-10-21T09:05:00Z,Savannah Logistics Ltd,Transport,OUTFLOW,KES,38500,150,Late delivery fuel surcharge dispute
+TXN-904,2026-10-21T15:42:00Z,Savannah Logistics Ltd,Transport,OUTFLOW,KES,38500,150,Duplicate billing anomaly TXN-903
+TXN-905,2026-10-22T10:15:00Z,Eastleigh Wholesale Hub,Sales,INFLOW,KES,320000,0,Bulk flour distribution order
+TXN-906,2026-10-23T13:20:00Z,Mombasa Packaging Suppliers,Supplier_USDT,OUTFLOW,USDT,850,1.0,Cross-border packaging settlement
+TXN-907,2026-10-24T16:50:00Z,Nairobi Cold Storage,Utilities,OUTFLOW,KES,64000,210,Monthly cold chain warehousing
+TXN-908,2026-10-25T12:00:00Z,Westlands Groceries,Sales,INFLOW,KES,189000,0,Weekly retail restock

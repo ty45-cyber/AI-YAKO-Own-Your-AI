@@ -1,0 +1,9 @@
+{
+  "cacheDirectory": "./.qvac-cache",
+  "rpcInitTimeoutMs": 45000,
+  "loggerConsoleOutput": true,
+  "loggerLevel": "info",
+  "httpDownloadConcurrency": 4,
+  "httpConnectionTimeoutMs": 15000,
+  "requireHttpChecksum": true
+}
